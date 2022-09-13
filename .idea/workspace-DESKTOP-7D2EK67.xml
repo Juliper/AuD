@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9406b4f4-48cb-4798-93a7-53fbbdbcd4ea" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/AuD-2022-H01-Student-master">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/AuD-2022-H01-Student-master">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AuD-2022-H01-Student" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AuD-2022-H01-Student" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AuD-2022-H01-Student" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="submit" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27hfIYwDOHR6UMY9Rplmk4G0yHa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h01.Main" />
+      <module name="AuD-2022-H01-Student.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="h01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuD-2022-H01-Student-master [prepareSubmission]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AuD-2022-H01-Student-master" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="prepareSubmission" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.AuD-2022-H01-Student-master [prepareSubmission]" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9406b4f4-48cb-4798-93a7-53fbbdbcd4ea" name="Changes" comment="" />
+      <created>1649777161609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649777161609</updated>
+      <workItem from="1649777167774" duration="3075000" />
+      <workItem from="1649785434263" duration="3182000" />
+      <workItem from="1649790615872" duration="1454000" />
+      <workItem from="1649822442724" duration="6006000" />
+      <workItem from="1649854077722" duration="3295000" />
+      <workItem from="1649857466726" duration="1823000" />
+      <workItem from="1649859922163" duration="1470000" />
+      <workItem from="1649869270960" duration="570000" />
+      <workItem from="1649925778186" duration="6359000" />
+      <workItem from="1649938305693" duration="5300000" />
+      <workItem from="1649944390555" duration="15000" />
+      <workItem from="1649945467979" duration="3401000" />
+      <workItem from="1650012059771" duration="12816000" />
+      <workItem from="1650033158184" duration="3374000" />
+      <workItem from="1650041155636" duration="6000" />
+      <workItem from="1650105929214" duration="7676000" />
+      <workItem from="1650274590939" duration="7967000" />
+      <workItem from="1650307836950" duration="1125000" />
+      <workItem from="1650357927258" duration="28000" />
+      <workItem from="1650361288932" duration="214000" />
+      <workItem from="1650361543918" duration="112000" />
+      <workItem from="1650361702357" duration="9000" />
+      <workItem from="1650363892236" duration="18000" />
+      <workItem from="1650457149552" duration="1286000" />
+      <workItem from="1650459574736" duration="92000" />
+      <workItem from="1650482037898" duration="1360000" />
+      <workItem from="1650557160019" duration="440000" />
+      <workItem from="1650631979469" duration="895000" />
+      <workItem from="1650633725513" duration="600000" />
+      <workItem from="1650634885397" duration="279000" />
+      <workItem from="1650638602277" duration="438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
